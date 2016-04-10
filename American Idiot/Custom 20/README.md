@@ -9,11 +9,10 @@
 ###Conhecendo o arquivo
 
 Abrindo o arquivo logo de cara era um binário!
-
+Acessando um decode online 
 ``` http://www.roubaixinteractive.com/PlayGround/Binary_Conversion/Binary_To_Text.asp ```
 
 ###Decodificando o binário
-Acessando um decode online
 Colocando o binario e decodificando para texto ele voltava um base64!
 
 ![img](binario.png)	
