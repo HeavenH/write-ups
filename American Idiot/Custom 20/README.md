@@ -16,7 +16,7 @@ Abrindo o arquivo logo de cara era um binário!,acessando um decode online
 
 Colocando o binario e decodificando para texto ele voltava um base64!
 
-![img1](Binario.png)	
+![img](binario.png)	
 
 Base 64 - ``` U0hDe05TQURFQ1JZUFRGQVNUfQ== ```
 
