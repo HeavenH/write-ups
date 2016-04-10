@@ -8,8 +8,8 @@
 
 ###Conhecendo o arquivo
 
-Abrindo o arquivo logo de cara era um binário!
-Acessando um decode online 
+Abrindo o arquivo logo de cara era um binário!<br>
+Acessando um decode online<br>
 ``` http://www.roubaixinteractive.com/PlayGround/Binary_Conversion/Binary_To_Text.asp ```
 
 ###Decodificando o binário
